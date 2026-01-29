@@ -1,0 +1,19 @@
+{
+  "pageTitle": "Research",
+  "projects": [
+    {
+      "id": "mind-perception",
+      "title": "Mind Perception",
+      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop",
+      "description": "This line of research explores how people attribute mental states, intentions, and consciousness to robots and artificial agents. We investigate the factors that influence mind perception in human-robot interaction and how these perceptions affect trust, collaboration, and social acceptance of robotic systems.",
+      "href": "/research/mind-perception"
+    },
+    {
+      "id": "human-robot-action-perception",
+      "title": "Human Robot Action Perception",
+      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=1200&h=675&fit=crop",
+      "description": "This research thread examines how humans perceive and interpret robot actions and movements. We study the cognitive mechanisms underlying action understanding in HRI contexts, exploring how people differentiate between communicative and non-communicative robot behaviors and how this influences interaction outcomes.",
+      "href": "/research/action-perception"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "title": "Mind Perception",
+  "pageTitle": "Mind Perception — Research — Tuğçe Nur Pekçetin",
+  "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop",
+  "imageAlt": "Mind Perception Research",
+  "overviewParagraphs": [
+    "This line of research explores how people attribute mental states, intentions, and consciousness to robots and artificial agents. Understanding mind perception is crucial for designing robots that can effectively interact with humans in social contexts. Our work investigates the cognitive and perceptual factors that influence whether people see robots as thinking, feeling entities or merely mechanical tools.",
+    "We examine how various design features—such as appearance, movement patterns, and behavioral cues—affect users' perceptions of robot minds. This research has important implications for trust, acceptance, and the ethical considerations surrounding human-robot interaction in everyday settings."
+  ],
+  "keyQuestions": [
+    "What factors influence people's attributions of mental states to robots?",
+    "How does mind perception affect trust and collaboration in HRI?",
+    "What role does anthropomorphism play in shaping human-robot relationships?",
+    "How can we design robots that elicit appropriate levels of mind perception?"
+  ],
+  "videoUrl": "https://www.youtube.com/embed/dDsmbwOrHJs",
+  "videoTitle": "Mind Perception in Robots",
+  "relatedPublications": [
+    {
+      "title": "Dynamics of Mind Perception in Human-Robot Interaction: Investigating Determinants Related to the Perceiver and the Perceived Using Real-Time Implicit and Explicit Measurements",
+      "authors": "T. N. Pekçetin",
+      "venue": "Middle East Technical University, 2024 • PhD Thesis",
+      "link": "https://open.metu.edu.tr/bitstream/handle/11511/111545/Tugce_Nur_Pekcetin_PhD_Thesis_METU_2024.pdf"
+    },
+    {
+      "title": "Mind perception at play: Exploring agent and action dynamics in real-time human-robot interaction",
+      "authors": "T. N. Pekçetin, S. Pekçetin, C. Acarturk, B. A. Urgen",
+      "venue": "Proceedings of the 46th Annual Meeting of the Cognitive Science Society, 2024",
+      "link": "https://escholarship.org/uc/item/0q88x866"
+    },
+    {
+      "title": "Real-world implicit association task for studying mind perception: insights for social robotics",
+      "authors": "T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Urgen",
+      "venue": "Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, 2024",
+      "link": "https://doi.org/10.1145/3610978.3640706"
+    },
+    {
+      "title": "Investigating mind perception in HRI through real-time implicit and explicit measurements",
+      "authors": "T. N. Pekçetin, C. Acarturk, B. A. Urgen",
+      "venue": "Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, 2024",
+      "link": "https://doi.org/10.1145/3610978.3638366"
+    },
+    {
+      "title": "Studying mind perception in social robotics implicitly: The need for validation and norming",
+      "authors": "T. N. Pekçetin, B. Barinal, J. Tunç, C. Acarturk, B. A. Urgen",
+      "venue": "Proceedings of the 2023 ACM/IEEE International Conference on Human-Robot Interaction, 2023",
+      "link": "https://doi.org/10.1145/3568162.3577001"
+    },
+    {
+      "title": "İnsan-Robot Etkileşimine Zihin Algısı Özelinde Bilişsel Bilimler Penceresinden Bakış",
+      "authors": "B. A. Ürgen, T. N. Pekçetin",
+      "venue": "Nesne Psikoloji Dergisi, 11(29), 437-448, 2023",
+      "link": "https://doi.org/10.7816/nesne-11-29-06"
+    }
+  ]
+}

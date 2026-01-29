@@ -1,0 +1,50 @@
+{
+  "pageTitle": "Awards & Recognition",
+  "awards": [
+    {
+      "category": "grants",
+      "sortKey": "2025-08",
+      "text": "Fulbright Postdoctoral Scholarship (2025–2026) — Cognitive Science & HRI"
+    },
+    {
+      "category": "grants",
+      "sortKey": "2024-09",
+      "text": "TÜBİTAK 2218 — National Postdoctoral Research Fellowship"
+    },
+    {
+      "category": "grants",
+      "sortKey": "2024-07",
+      "text": "TÜBİTAK 2224‑A grant — CogSci 2024 participation (Rotterdam)"
+    },
+    {
+      "category": "grants",
+      "sortKey": "2024-02",
+      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 2)"
+    },
+    {
+      "category": "grants",
+      "sortKey": "2023-12",
+      "text": "Erasmus+ KA131 — Short‑Term Doctoral Traineeship Grant"
+    },
+    {
+      "category": "grants",
+      "sortKey": "2023-08",
+      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 1)"
+    },
+    {
+      "category": "recognition",
+      "sortKey": "2025-08",
+      "text": "Best PhD Thesis Award (Contribution to Scientific Advancement) — METU Graduate School of Informatics"
+    },
+    {
+      "category": "recognition",
+      "sortKey": "2025-03",
+      "text": "Outstanding Reviewer Recognition — HRI 2025 Program Committee"
+    },
+    {
+      "category": "recognition",
+      "sortKey": "2024-03",
+      "text": "Selected as HRI Pioneer (one of 25) — ACM/IEEE HRI 2024"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pageTitle": "Teaching",
+  "roles": [
+    {
+      "title": "Instructor (Part-time)",
+      "department": "Department of Translation and Interpretation",
+      "institution": "Başkent University",
+      "location": "Ankara, Turkey",
+      "period": "Sept. 2021 – June 2022",
+      "details": "Taught first-year undergraduate courses with a focus on foundational language competence and academic literacy.",
+      "courses": [
+        "English Grammar",
+        "Reading and Writing Skills in English I & II"
+      ]
+    },
+    {
+      "title": "Instructor (Full-time)",
+      "department": "Department of Foreign Languages",
+      "institution": "University of Turkish Aeronautical Association",
+      "location": "Ankara, Turkey",
+      "period": "Sept. 2013 – Sept. 2014",
+      "details": "Delivered core and skills-based English instruction to undergraduates across levels and international graduate students.",
+      "courses": [
+        "Main Course (English grammar and vocabulary)",
+        "Skills Courses (reading and writing in English)"
+      ]
+    }
+  ]
+}
