@@ -3,4 +3,3 @@ Linkedin: https://tr.linkedin.com/in/tugcenurpekcetin
 X: https://x.com/tugcenpekcetin?lang=en
 email:  tugce.nur.pekcetin@gmail.com
 place: Wisconsin, USA
-github: https://github.com/TPekcetin
