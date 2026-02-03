@@ -29,7 +29,7 @@ MemoizedStaticContent.displayName = "MemoizedStaticContent"
 
 export default function CVPage() {
   // Point to the static CV PDF.
-  const cvSrc = "/cv/tugce_cv.pdf"
+  const cvSrc = "/cv/Tugce_Nur_Pekcetin_CV_Feb2026.pdf"
 
   return (
     <div className="min-h-[100dvh] bg-background text-foreground">
