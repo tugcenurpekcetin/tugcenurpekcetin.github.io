@@ -1,0 +1,29 @@
+{
+  "title": "Naturalistic Laboratory Design",
+  "pageTitle": "Naturalistic Setup — Research — Tuğçe Nur Pekçetin",
+  "image": "/naturalisticsetup.png",
+  "imageAlt": "",
+  "overviewParagraphs": ["Traditional HRI research often faces a trade-off: screen-based studies offer control but lack realism (low ecological validity), while ‘in-the-wild’ studies offer realism but lack control. In my doctoral research, we targeted the ‘fourth level of naturalism’ by bringing real agents into a controlled laboratory setting. This approach allows for dynamic, contingent social interactions without sacrificing the precise measurement capabilities of a lab environment.",
+  "At the core of this setup is the Planar® LookThru™ Transparent OLED Display. This innovative screen alternates between a fully transparent state, allowing participants to view live human or robot actors directly as if through a window, and an opaque state for administering surveys or tasks. This seamless transition enables the presentation of physically present stimuli without disrupting the interaction flow.",
+  "To ensure smooth performance, the setup incorporates a Wizard of Oz (WoZ) methodology, creating the illusion of autonomous robot behavior. The physical space is divided by a curtain system and monitored via a hidden camera in the actor area. With this careful design, we could collect time-sensitive behavioral data, such as response times and mouse trajectories, in a fully controlled experiment while providing participants with an immersive experience that goes beyond the limitations of screen-based studies.",
+  "The details of the setup and the experiments can be found in the videos of the publications below."
+  ],
+  "keyQuestions": [""
+  ],
+  "videoUrl": "",
+  "videoTitle": "",
+  "relatedPublications": [
+    {
+      "title": "A naturalistic laboratory setup for real-world HRI studies",
+      "authors": "T. N. Pekçetin, Ş. Evsen, S. Pekçetin, T. D. Karaduman, C. Acarturk, B. A. Urgen",
+      "venue": "Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, 2024",
+      "link": "https://doi.org/10.1145/3610978.3641113"
+    },
+    {
+      "title": "A naturalistic setup for presenting real people and live actions in experimental psychology and cognitive neuroscience studies",
+      "authors": "T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Urgen",
+      "venue": "Journal of Visualized Experiments, (198), e65436, 2023",
+      "link": "https://app.jove.com/t/65436/a-naturalistic-setup-for-presenting-real-people-live-actions"
+    }
+  ]
+}

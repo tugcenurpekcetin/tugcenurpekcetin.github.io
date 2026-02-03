@@ -26,7 +26,11 @@ type ProfileContent = {
 async function getProfileContent(): Promise<ProfileContent> {
   const filePath = path.join(process.cwd(), "content", "profile.json")
   const fileContents = await fs.readFile(filePath, "utf8")
+  if (process.env.NODE_ENV === 'development') {
+    console.log("⚡ Profile Content Loaded at:", new Date().toLocaleTimeString())
+  }
   return JSON.parse(fileContents)
+
 }
 
 export default async function ProfilePage() {
@@ -44,6 +48,7 @@ export default async function ProfilePage() {
                   src={content.profileImage}
                   alt={content.name}
                   fill
+                  unoptimized
                   sizes="80px"
                   className="object-cover object-bottom"
                 />

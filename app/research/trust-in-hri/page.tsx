@@ -26,7 +26,7 @@ type ResearchDetailContent = {
 }
 
 async function getContent(): Promise<ResearchDetailContent> {
-  const filePath = path.join(process.cwd(), "content", "research-mind-perception.json")
+  const filePath = path.join(process.cwd(), "content", "research-trust-in-hri.json")
   const fileContents = await fs.readFile(filePath, "utf8")
   return JSON.parse(fileContents)
 }
@@ -55,29 +55,29 @@ export default async function MindPerceptionPage() {
             </div>
 
             <h1 className="text-[28px] font-bold tracking-tight mb-6">{content.title}</h1>
-            {
-            <div className="relative w-full max-w-2xl mx-auto aspect-[30/9] rounded-lg overflow-hidden  bg-white mb-8">
+            {/*
+            <div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden border bg-muted mb-8">
               <Image
                 src={content.image}
                 alt={content.imageAlt}
                 fill
                 unoptimized
-                className="object-contain"
+                className="object-cover"
               />
             </div>
-            }
+            */}
             <section className="space-y-6 text-[15px] leading-relaxed">
               <h2 className="text-xl font-semibold mt-8">Overview</h2>
               {content.overviewParagraphs.map((paragraph, index) => (
                 <p key={index}>{paragraph}</p>
               ))}
 
-              <h2 className="text-xl font-semibold mt-8">Key Research Questions</h2>
+              {/*<h2 className="text-xl font-semibold mt-8">Research Questions</h2>
               <ul className="list-disc list-inside space-y-2 text-muted-foreground">
                 {content.keyQuestions.map((question, index) => (
                   <li key={index}>{question}</li>
                 ))}
-              </ul>
+              </ul>*/}
 
               {/*<h2 className="text-xl font-semibold mt-8">Video</h2>
               <div className="relative w-full aspect-video rounded-lg overflow-hidden border bg-black">

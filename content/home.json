@@ -1,42 +1,68 @@
 {
-  "pageTitle": "Human‑Robot Interaction",
-  "heroText": "I'm Tuğçe Nur Pekçetin, a Cognitive Science Ph.D. and a Fulbright Postdoctoral Scholar (2025–2026). I study how people trust and interact with robots in everyday settings.",
-  "news": [
+  "pageTitle": "About me",
+  "heroText": "I am a Postdoctoral Researcher and Fulbright Visiting Scholar at the University of Wisconsin–Madison, working with Prof. Bilge Mutlu at the People and Robots Laboratory. My research broadly explores the cognitive mechanisms underlying Human-Robot Interaction (HRI), with a current focus on how trust is formed and calibrated within human-robot teams.\n\n Prior to joining UW-Madison, I completed a postdoctoral fellowship at Bilkent University's Cognitive Computational Neuroscience Lab with Assoc. Prof. Burcu A. Ürgen. During this period, supported by the TÜBİTAK 2218 National Postdoctoral Research Fellowship, I investigated multi-sensory contributions to the human understanding of robot actions. I hold a Ph.D. in Cognitive Science from Middle East Technical University, where my doctoral work examined the dynamics of mind perception in HRI through controlled yet naturalistic laboratory experiments. \n\n <h3>Research Areas</h3> <ul><li><b>Trust Dynamics in HRI:</b> Investigating how trust is formed, maintained, and calibrated in human-robot teams.</li><li><b>Social Cognition & Mind Perception:</b> Understanding the cognitive mechanisms behind attributing mental states to robots.</li><li><b>Human Perception of Robot Actions:</b> Exploring how humans perceive and interpret robot actions using multi-sensory cues.</li><li><b>Mixed-Methods Research:</b> Combining explicit feedback with implicit behavioral metrics.</li><li><b>Naturalistic Experimental Settings:</b> Designing novel naturalistic setups that allow for controlled experiments.</li></ul> \n",
+  "news": 
+  [
+    {
+      "date": "Sep 2025",
+      "text": "Joined the People and Robots Laboratory at the University of Wisconsin-Madison as a Postdoctoral Researcher and a Fulbright Visiting Scholar to work with Prof. Bilge Mutlu."
+    },
     {
       "date": "Aug 2025",
-      "text": "Best PhD Thesis Award (Contribution to Scientific Advancement) — METU Graduate School of Informatics."
+      "text": "Received the 'Best PhD Thesis Award' (Contribution to Scientific Advancement) from METU Graduate School of Informatics."
     },
     {
       "date": "Mar 2025",
-      "text": "Outstanding Reviewer Recognition — HRI 2025 Program Committee."
+      "text": "Recognized as an 'Outstanding Reviewer' by the HRI 2025 Program Committee."
     },
     {
       "date": "Feb 2025",
-      "text": "Fulbright Postdoctoral Scholarship (2025–2026) — Cognitive Science & HRI."
+      "text": "Awarded the Fulbright Postdoctoral Fellowship to conduct research in the USA for the 2025–2026 academic year."
+    },
+    {
+      "date": "Nov 2024",
+      "text": "Visited the CONTACT Unit at the Italian Institute of Technology (IIT) in Genova as an Erasmus+ Short-Term Trainee hosted by Dr. Alessandra Sciutti, and presented my work on mind perception dynamics."
+    },
+    {
+      "date": "Oct 2024",
+      "text": "Delivered a colloquium talk titled 'Dynamics of Mind Perception in Human-Robot Interaction: A Cognitive Science Perspective' at Bilkent University, Department of Psychology."
+    },
+    {
+      "date": "Oct 2024",
+      "text": "Joined the Cognitive Computational Neuroscience Laboratory at Bilkent University as a Postdoctoral Researcher to work with Assoc. Prof. Burcu Ayşen Ürgen, supported by the TÜBİTAK 2218 Postdoctoral Fellowship."
     },
     {
       "date": "Sep 2024",
-      "text": "TÜBİTAK 2218 — National Postdoctoral Research Fellowship."
+      "text": "Awarded the TÜBİTAK (The Scientific and Technological Research Council of Türkiye) 2218 National Postdoctoral Research Fellowship."
+    },
+    {
+      "date": "Sep 2024",
+      "text": "Successfully defended my PhD thesis titled 'Dynamics of Mind Perception in Human-Robot Interaction: Investigating Determinants Related to the Perceiver and the Perceived Using Real-Time Implicit and Explicit Measurements' at METU Cognitive Science Department with no corrections."
     },
     {
       "date": "Jul 2024",
-      "text": "TÜBİTAK 2224‑A grant — CogSci 2024 participation (Rotterdam)."
+      "text": "Presented a poster for our full paper at CogSci 2024 (46th Annual Meeting of the Cognitive Science Society) in Rotterdam, Netherlands."
+    },
+    {
+      "date": "Jun 2024",
+      "text": "Delivered a virtual invited talk for the MIRRORLab Speaker Series at the Colorado School of Mines, Department of Computer Science."
     },
     {
       "date": "Mar 2024",
-      "text": "Selected as HRI Pioneer (one of 25) — ACM/IEEE HRI 2024."
-    },
-    {
-      "date": "Feb 2024",
-      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 2)."
+      "text": "Participated in the ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024) in Boulder, CO, presenting at the Pioneers Workshop, a Late-Breaking Report, and a Video Submission."
     },
     {
       "date": "Dec 2023",
-      "text": "Erasmus+ KA131 — Short‑Term Doctoral Traineeship Grant."
+      "text": "Selected as one of 25 participants for the annual HRI Pioneers Workshop at the ACM/IEEE International Conference on Human-Robot Interaction (HRI 2024)"
     },
     {
-      "date": "Aug 2023",
-      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 1)."
+      "date": "Mar 2023",
+      "text": "Presented my first first-author full paper at the ACM/IEEE International Conference on Human-Robot Interaction (HRI 2023) in Stockholm, Sweden."
     }
-  ]
+]
 }
+
+
+
+
+

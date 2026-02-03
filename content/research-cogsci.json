@@ -1,0 +1,26 @@
+{
+  "title": "Eye-Tracking & Reading Research",
+  "pageTitle": "Eye Tracking — Research — Tuğçe Nur Pekçetin",
+  "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop",
+  "imageAlt": "Eye Tracking",
+  "overviewParagraphs": ["My early research utilized eye-tracking technology to investigate how linguistic structure impacts visual attention. Specifically, my Master's thesis examined the effects of word length and suffixation on eye movement control in Turkish reading. By studying an agglutinative language, this work provided insights into how morphological complexity influences oculomotor decisions during reading.",
+    "I co-developed TURead, a comprehensive eye-movement dataset for reading in Turkish. This project involved rigorous experimental design as well as collection and processing of large-scale gaze data. This work not only serves as a benchmark for reading research but also established my methodological expertise in behavioral data analysis and experimental design."
+  ],
+  "keyQuestions": [""],
+  "videoUrl": "",
+  "videoTitle": "",
+  "relatedPublications": [
+    {
+      "title": "TURead: An eye movement dataset of Turkish reading",
+      "authors": "C. Acartürk, A. Özkan, T. N. Pekçetin, Z. Ormanoğlu, B. Kırkıcı",
+      "venue": "Behavior Research Methods, 2024",
+      "link": "https://link.springer.com/article/10.3758/s13428-023-02120-6"
+    },
+    {
+      "title": "The effects of word length and suffixation on eye movement control in Turkish reading",
+      "authors": "T. N. Pekçetin (Bozkurt)",
+      "venue": "Middle East Technical University, 2017 • Master's Thesis",
+      "link": "https://www.proquest.com/docview/3132854044?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses"
+    }
+  ]
+}

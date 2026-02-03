@@ -3,17 +3,38 @@
   "projects": [
     {
       "id": "mind-perception",
-      "title": "Mind Perception",
-      "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop",
-      "description": "This line of research explores how people attribute mental states, intentions, and consciousness to robots and artificial agents. We investigate the factors that influence mind perception in human-robot interaction and how these perceptions affect trust, collaboration, and social acceptance of robotic systems.",
+      "title": "Social Cognition & Mind Perception in HRI",
+      "image": "/rwıatexperimentflow.png",
+      "description": "My doctoral research explored the dynamics of mind perception, specifically how humans ascribe intentions and feelings to robots. To uncover the determinants of this process, I investigated the effects of agent type, action type, as well as generational and individual differences using a novel mixed-methods approach that combines real-time implicit metrics with explicit measures.",
       "href": "/research/mind-perception"
     },
     {
       "id": "human-robot-action-perception",
-      "title": "Human Robot Action Perception",
-      "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=1200&h=675&fit=crop",
-      "description": "This research thread examines how humans perceive and interpret robot actions and movements. We study the cognitive mechanisms underlying action understanding in HRI contexts, exploring how people differentiate between communicative and non-communicative robot behaviors and how this influences interaction outcomes.",
+      "title": "Human Perception of Robot Actions",
+      "image": "/pepperactions.png",
+      "description": "‘How do humans perceive and interpret robot actions? This research thread investigates the cognitive mechanisms underlying action understanding in HRI. We explore how people differentiate between communicative and noncommunicative robot behaviors, examining the role of multisensory cues and context in guiding action interpretation.",
       "href": "/research/action-perception"
+    },
+    {
+      "id": "naturalistic-setup",
+      "title": "Naturalistic Laboratory Design",
+      "image": "/participantarea.png",
+      "description": "To bridge the gap between rigid laboratory experiments and uncontrolled real-world interactions, we developed a novel naturalistic laboratory setup. In this setup, we use Transparent OLED technology to present live human and robot actors performing live actions as experimental stimuli. This framework allowed us to achieve high ecological validity while maintaining rigorous experimental control.",
+      "href": "/research/naturalistic-setup"
+    },
+    {
+      "id": "trust-in-hri",
+      "title": "Trust Dynamics in HRI",
+      "image": "/humanrobottrust.png",
+      "description": "In this emerging line of research, I am investigating the dynamics of trust calibration. My focus is on developing methodologies that align human expectations with robot capabilities for safer and more resilient collaboration.",
+      "href": "/research/trust-in-hri"
+    },
+    {
+      "id": "cogsci",
+      "title": "Eye-Tracking & Reading Research",
+      "image": "/eyetracking.png",
+      "description": "Before transitioning to HRI, my research in cognitive science focused how humans process visual information. Specifically, I utilized eye-tracking methodologies to study eye movement control patterns and contributed to the development of a comprehensive eye-movement dataset.",
+      "href": "/research/cogsci"
     }
   ]
 }

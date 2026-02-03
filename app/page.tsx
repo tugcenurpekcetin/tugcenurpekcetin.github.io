@@ -38,15 +38,23 @@ export default async function Page() {
           <SidebarProfile />
           <section className="min-w-0">
             <header className="mb-8">
-              <h1 className="text-[28px] font-bold tracking-tight">{content.pageTitle}</h1>
-              <div className="space-y-4 text-sm leading-relaxed">
-                <p className="text-justify">{content.heroText}</p>
-              </div>
+              {/*<h1 className="text-xl font-bold tracking-tight">{content.pageTitle}</h1>
+              <div className="mt-4 space-y-4 text-sm leading-relaxed">
+                <p className="text-justify whitespace-pre-line">{content.heroText}</p>
+              </div>*/}
+
+              <h1 className="text-xl font-bold tracking-tight">{content.pageTitle}</h1>
+                <div className="mt-4 space-y-4 text-sm leading-relaxed">
+                <div 
+                  className="text-justify whitespace-pre-line [&_ul]:list-disc [&_ul]:ml-4 [&_li]:mt-2 [&_h3]:text-lg [&_h3]:font-bold [&_h3]:mt-6"
+                  dangerouslySetInnerHTML={{ __html: content.heroText }}
+                />
+            </div>
             </header>
 
             <div className="grid gap-12">
               <section aria-labelledby="news">
-                <h2 id="news" className="text-lg font-semibold">
+                <h2 id="news" className="text-xl font-bold">
                   News
                 </h2>
                 <div className="mt-4 space-y-4">
@@ -55,7 +63,7 @@ export default async function Page() {
                       key={index}
                       className="flex items-start gap-4 -mx-2 px-2 py-2 rounded-md transition-all duration-200 hover:translate-x-1 hover:shadow-sm cursor-pointer"
                     >
-                      <span className="text-sm text-muted-foreground font-mono min-w-[80px] mt-0.5">
+                      <span className="text-sm text-muted-foreground min-w-[80px] mt-0.5 tabular-nums">
                         {item.date}
                       </span>
                       <span className="text-sm leading-relaxed">{item.text}</span>

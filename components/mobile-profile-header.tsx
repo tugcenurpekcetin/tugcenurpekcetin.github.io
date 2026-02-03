@@ -20,6 +20,7 @@ export default function MobileProfileHeader() {
               src={profilePic}
               alt="Tuğçe Nur Pekçetin"
               fill
+              unoptimized
               sizes="64px"
               className="object-cover object-bottom"
             />

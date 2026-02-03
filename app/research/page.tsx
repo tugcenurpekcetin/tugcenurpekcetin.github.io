@@ -39,32 +39,50 @@ export default async function ResearchPage() {
         </div>
         <div className="grid grid-cols-1 gap-10 mt-10 md:grid-cols-[260px_minmax(0,1fr)]">
           <SidebarProfile />
+          
           <section className="min-w-0">
             <h1 className="text-[22px] font-semibold tracking-tight mb-8">{content.pageTitle}</h1>
             
-            <div className="space-y-12">
+            <div className="space-y-16"> {/* Projeler arası boşluğu biraz açtık */}
               {content.projects.map((project) => (
-                <article key={project.id} className="space-y-4">
-                  <h2 className="text-xl font-semibold">
-                    <Link href={project.href} className="hover:underline">
+                <article key={project.id} className="group overflow-hidden">
+                  
+                  {/* Başlık her zaman en üstte kalabilir veya resmin yanına alınabilir. 
+                      Akademik düzende başlığın üstte kalması daha okunaklıdır. */}
+                  <h2 className="text-xl font-semibold mb-4">
+                    <Link href={project.href} className="hover:text-emerald-600 transition-colors">
                       {project.title}
                     </Link>
                   </h2>
                   
-                  <Link href={project.href} className="block">
-                    <div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden border bg-muted hover:opacity-90 transition-opacity">
-                      <Image
-                        src={project.image}
-                        alt={project.title}
-                        fill
-                        className="object-cover"
-                      />
+                  <div className="block">
+                    {/* GÖRSEL: Mobilde tam genişlik, masaüstünde 1/3 genişlik */}
+                    <div className="relative w-full md:w-1/3 aspect-[16/9] md:float-left md:mr-6 mb-4 rounded-lg overflow-hidden border bg-muted group-hover:opacity-90 transition-opacity">
+                      <Link href={project.href}>
+                        <Image
+                          src={project.image}
+                          alt={project.title}
+                          unoptimized
+                          fill
+                          className="object-cover"
+                        />
+                      </Link>
                     </div>
-                  </Link>
+                    
+                    {/* AÇIKLAMA METNİ */}
+                    <p className="text-[15px] leading-relaxed text-gray-700">
+                      {project.description}
+                      <Link 
+                        href={project.href} 
+                        className="ml-2 text-emerald-600 hover:underline font-medium inline-block"
+                      >
+                        Read more →
+                      </Link>
+                    </p>
+                  </div>
                   
-                  <p className="text-sm leading-relaxed text-muted-foreground">
-                    {project.description}
-                  </p>
+                  {/* Bir sonraki projenin float'tan etkilenmemesi için temizleyici */}
+                  <div className="clear-both"></div>
                 </article>
               ))}
             </div>

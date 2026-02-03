@@ -23,7 +23,7 @@ export function SiteHeader() {
     <header className="sticky top-0 z-40 w-full border-b bg-background/80 backdrop-blur supports-[backdrop-filter]:bg-background/60">
       <div className="mx-auto max-w-7xl px-4 md:px-6">
         <div className="flex h-14 items-center gap-3">
-          <Link href="/" className="font-semibold tracking-tight">
+          <Link href="/" className="text-base font-semibold tracking-tight text-muted-foreground">
             Tuğçe Nur Pekçetin
           </Link>
 
@@ -37,7 +37,7 @@ export function SiteHeader() {
                   prefetch={false}
                   aria-current={isActive ? "page" : undefined}
                   className={[
-                    "relative text-sm transition-colors",
+                    "relative text-base transition-colors",
                     isActive ? "text-foreground" : "text-muted-foreground hover:text-foreground",
                     "after:absolute after:left-0 after:-bottom-1 after:h-px after:w-0",
                     "after:bg-emerald-500/70 after:transition-all after:duration-200",

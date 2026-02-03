@@ -82,8 +82,8 @@ export default function PublicationCard({
         "rounded-lg border p-4 transition-all duration-500 hover:shadow-sm",
         isFirstAuthor ? "border-l-2 border-l-emerald-500/30 animate-in slide-in-from-left-2 fade-in duration-700" : "",
       ].join(" ")}
-    > 
-      <header /* className="flex flex-wrap items-baseline gap-x-3 gap-y-2" */className="flex flex-col gap-1">
+    >
+      <header className="flex flex-wrap items-baseline gap-x-3 gap-y-2">
         <h3 className="font-medium leading-snug">
           {pub.pdf ? (
             <Link href={`/publications/${encodeURIComponent(pub.id)}`} className="hover:underline">

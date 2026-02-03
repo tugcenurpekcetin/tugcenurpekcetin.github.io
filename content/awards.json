@@ -2,49 +2,117 @@
   "pageTitle": "Awards & Recognition",
   "awards": [
     {
-      "category": "grants",
-      "sortKey": "2025-08",
-      "text": "Fulbright Postdoctoral Scholarship (2025–2026) — Cognitive Science & HRI"
+      "category": "Fellowships & Scholarships",
+      "sortKey": "2025-02",
+      "year": "2025–2026",
+      "title": "",
+      "text": "Fulbright Postdoctoral Fellowship — Field: Cognitive Science & Human-Robot Interaction"
     },
     {
-      "category": "grants",
+      "category": "Research Grants & Travel Support",
+      "sortKey": "2025-02",
+      "year": "2025-2026",
+      "title": "",
+      "text": "TÜBİTAK 2250 Performance-Based Postdoc Scholarship — Awarded for high performance in postdoctoral research"
+    },
+    {
+      "category": "Fellowships & Scholarships",
       "sortKey": "2024-09",
-      "text": "TÜBİTAK 2218 — National Postdoctoral Research Fellowship"
+      "year": "Sep 2024",
+      "title": "",
+      "text": "TÜBİTAK 2218 National Postdoctoral Research Fellowship — Field: Human-Robot Interaction, Action Perception"
     },
     {
-      "category": "grants",
+      "category": "Fellowships & Scholarships",
+      "sortKey": "2021-05",
+      "year": "2021–2024",
+      "title": "",
+      "text": "TÜBİTAK 1001 Doctoral Fellowship — Field: Human-Robot Interaction, Mind Perception"
+    },
+    {
+      "category": "Fellowships & Scholarships",
+      "sortKey": "2017-01",
+      "year": "2017–2021",
+      "title": "",
+      "text": "100/2000 CoHE Doctoral Scholarship — Field: Human-Computer Interaction"
+    },
+    {
+      "category": "Fellowships & Scholarships",
+      "sortKey": "2015-09",
+      "year": "2015–2017",
+      "title": "",
+      "text": "TÜBİTAK 1001 Master of Science Fellowship — Field: Eye Movement Control in Reading"
+    },
+    {
+      "category": "Fellowships & Scholarships",
+      "sortKey": "2008-01",
+      "year": "2008–2013",
+      "title": "",
+      "text": "The Prime Minister’s Scholarship — Awarded for high ranking in the University Entrance Exam"
+    },
+    {
+      "category": "Research Grants & Travel Support",
+      "sortKey": "2024-11",
+      "year": "Nov 2024",
+      "title": "",
+      "text": "Erasmus+ KA131 Short-Term Doctoral Traineeship Grant — Host: IIT (Genova), Dr. Alessandra Sciutti"
+    },
+    {
+      "category": "Research Grants & Travel Support",
       "sortKey": "2024-07",
-      "text": "TÜBİTAK 2224‑A grant — CogSci 2024 participation (Rotterdam)"
+      "year": "Jul 2024",
+      "title": "",
+      "text": "TÜBİTAK 2224-A Travel Grant — Participation in CogSci 2024 (Rotterdam, Netherlands)"
     },
     {
-      "category": "grants",
-      "sortKey": "2024-02",
-      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 2)"
-    },
-    {
-      "category": "grants",
-      "sortKey": "2023-12",
-      "text": "Erasmus+ KA131 — Short‑Term Doctoral Traineeship Grant"
-    },
-    {
-      "category": "grants",
-      "sortKey": "2023-08",
-      "text": "TÜBİTAK 2250 — Performance‑Based PhD Scholarship (Period 1)"
-    },
-    {
-      "category": "recognition",
-      "sortKey": "2025-08",
-      "text": "Best PhD Thesis Award (Contribution to Scientific Advancement) — METU Graduate School of Informatics"
-    },
-    {
-      "category": "recognition",
-      "sortKey": "2025-03",
-      "text": "Outstanding Reviewer Recognition — HRI 2025 Program Committee"
-    },
-    {
-      "category": "recognition",
+      "category": "Research Grants & Travel Support",
       "sortKey": "2024-03",
-      "text": "Selected as HRI Pioneer (one of 25) — ACM/IEEE HRI 2024"
+      "year": "Mar 2024",
+      "title": "",
+      "text": "ACM HRI Pioneers Travel Grant — Participation in HRI 2024 Pioneers Workshop (Boulder, CO)"
+    },
+    {
+      "category": "Research Grants & Travel Support",
+      "sortKey": "2024-02",
+      "year": "2023–2024",
+      "title": "",
+      "text": "TÜBİTAK 2250 Performance-Based PhD Scholarship — Awarded for high performance in PhD studies"
+    },
+    {
+      "category": "Research Grants & Travel Support",
+      "sortKey": "2023-03",
+      "year": "Mar 2023",
+      "title": "",
+      "text": "TÜBİTAK 1001 Travel Grant — Participation in ACM/IEEE HRI 2023 (Stockholm, Sweden)"
+    },
+    {
+      "category": "Research Grants & Travel Support",
+      "sortKey": "2016-06",
+      "year": "Jun 2016",
+      "title": "",
+      "text": "TÜBİTAK Travel Grant — Participation in 7th Scandinavian Workshop on Eye Tracking (Turku, Finland)"
+    },
+
+    {
+      "category": "Honors & Awards",
+      "sortKey": "2025-08",
+      "year": "Aug 2025",
+      "title": "",
+      "text": "Best PhD Thesis Award — Contribution to Scientific Advancement - METU Graduate School of Informatics"
+    },
+    {
+      "category": "Honors & Awards",
+      "sortKey": "2025-03",
+      "year": "Mar 2025",
+      "title": "",
+      "text": "Outstanding Reviewer Recognition — HRI 2025 Program Committee (Exceptional reviewing of Full Papers)"
+    },
+    {
+      "category": "Honors & Awards",
+      "sortKey": "2024-03",
+      "year": "Mar 2024",
+      "title": "",
+      "text": "HRI Pioneer — Selected as one of 25 top student researchers worldwide for ACM/IEEE HRI 2024"
     }
   ]
 }

@@ -56,14 +56,27 @@ export default async function ActionPerceptionPage() {
 
             <h1 className="text-[28px] font-bold tracking-tight mb-6">{content.title}</h1>
             
-            <div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden border bg-muted mb-8">
+            {/*<div className="relative w-full aspect-[16/9] rounded-lg overflow-hidden border bg-muted mb-8">
               <Image
                 src={content.image}
                 alt={content.imageAlt}
                 fill
+                unoptimized
                 className="object-cover"
               />
+  </div>*/}
+
+          {
+            <div className="relative w-full max-w-2xl mx-auto aspect-[16/9] rounded-lg overflow-hidden  bg-white mb-8">
+              <Image
+                src={content.image}
+                alt={content.imageAlt}
+                fill
+                unoptimized
+                className="object-contain"
+              />
             </div>
+            }
 
             <section className="space-y-6 text-[15px] leading-relaxed">
               <h2 className="text-xl font-semibold mt-8">Overview</h2>
@@ -78,7 +91,7 @@ export default async function ActionPerceptionPage() {
                 ))}
               </ul>
 
-              <h2 className="text-xl font-semibold mt-8">Video</h2>
+              {/*<h2 className="text-xl font-semibold mt-8">Video</h2>
               <div className="relative w-full aspect-video rounded-lg overflow-hidden border bg-black">
                 <iframe
                   width="100%"
@@ -90,7 +103,7 @@ export default async function ActionPerceptionPage() {
                   allowFullScreen
                   className="absolute inset-0"
                 ></iframe>
-              </div>
+                </div>*/}
 
               <h2 className="text-xl font-semibold mt-8">Related Publications</h2>
               <div className="space-y-4">

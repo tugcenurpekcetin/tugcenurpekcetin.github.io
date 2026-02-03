@@ -1,17 +1,20 @@
 {
-  "title": "Human Robot Action Perception",
+  "title": "Human Perception of Robot Actions",
   "pageTitle": "Human Robot Action Perception — Research — Tuğçe Nur Pekçetin",
-  "image": "https://images.unsplash.com/photo-1563207153-f403bf289096?w=1200&h=675&fit=crop",
+  "image": "/animationeditor.png",
   "imageAlt": "Human Robot Action Perception Research",
   "overviewParagraphs": [
-    "This research thread examines how humans perceive and interpret robot actions and movements in interactive settings. Understanding action perception is fundamental to creating intuitive and effective human-robot interactions. Our work investigates the cognitive mechanisms that enable people to understand robot behaviors, distinguish between different types of actions, and predict robot intentions.",
-    "We explore how people differentiate between communicative and non-communicative robot behaviors, and how contextual factors influence action interpretation. This research has practical applications in designing robots that can communicate effectively through movement and gesture, leading to more natural and efficient human-robot collaboration."
+     "'Do we process robot actions in the same way we process human actions?' Driven by this question, my research systematically compares human and robot action perception.",
+     "During my Ph.D., my team and I designed 40 communicative and noncommunicative actions for the Pepper robot and recorded the robot and a human actor performing the exact same movements. We tested these stimuli with nearly 450 participants and established the HR-ACT (Human-Robot Action) Database, a standardized resource that we believe will serve as a validated and comprehensive source for future HRI experiments.",
+     "Building on this work, my postdoctoral research investigated the multisensory nature of action understanding. We systematically explored how visual and auditory cues contribute to the identification and classification of actions. Additionally, in a parallel line of research, we examined the attentional impact of robotic agents, specifically investigating the distraction caused by robots versus humans under varying perceptual loads.",
+     "Understanding these underlying mechanisms is essential for developing robots that communicate effectively through movement. By providing empirical evidence on how humans perceive robotic actions, this research offers insights on designing more natural behaviors that align with human expectations, ultimately enabling safer and more efficient human-robot collaboration."
+
   ],
   "keyQuestions": [
-    "How do people distinguish communicative from non-communicative robot actions?",
+    "What are the cognitive mechanisms underlying action perception in HRI?",
+    "How do people distinguish communicative from noncommunicative robot actions?",
     "What movement features make robot actions more interpretable to humans?",
-    "How does context shape the interpretation of robot behaviors?",
-    "What are the neural and cognitive mechanisms underlying action perception in HRI?"
+    "How do contextual cues shape the interpretation of robot behaviors?"
   ],
   "videoUrl": "https://www.youtube.com/embed/8FpPSMIB4uY",
   "videoTitle": "Human Robot Action Perception",
@@ -19,8 +22,8 @@
     {
       "title": "HR-ACT (Human-Robot Action) Database: Communicative and Noncommunicative Action Videos Featuring a Human and a Humanoid Robot",
       "authors": "T. N. Pekçetin, G. Aşkın, Ş. Evsen, T. D. Karaduman, B. Barinal, J. Tunç, C. Acartürk, B. A. Urgen",
-      "venue": "OSF Preprints, 2025",
-      "link": "https://osf.io/preprints/psyarxiv/jxy9w_v2"
+      "venue": "Behavior Research Methods, 2026",
+      "link": "https://link.springer.com/article/10.3758/s13428-025-02910-0"
     },
     {
       "title": "Distraction by a Human or a Robot: Effects of Perceptual Load and Action Type",
@@ -29,16 +32,10 @@
       "link": "https://ieeexplore.ieee.org/document/10974021"
     },
     {
-      "title": "A naturalistic laboratory setup for real-world HRI studies",
-      "authors": "T. N. Pekçetin, Ş. Evsen, S. Pekçetin, T. D. Karaduman, C. Acarturk, B. A. Urgen",
-      "venue": "Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction, 2024",
-      "link": "https://doi.org/10.1145/3610978.3641113"
-    },
-    {
-      "title": "A naturalistic setup for presenting real people and live actions in experimental psychology and cognitive neuroscience studies",
-      "authors": "T. N. Pekçetin, Ş. Evsen, S. Pekçetin, C. Acarturk, B. A. Urgen",
-      "venue": "Journal of Visualized Experiments, (198), e65436, 2023",
-      "link": "https://app.jove.com/t/65436/a-naturalistic-setup-for-presenting-real-people-live-actions"
+      "title": "When Actions Meet Context: Exploring Visual and Auditory Cues in Human-Robot Action Perception",
+      "authors": "T. N. Pekçetin, K. Kıylıoğlu, M. N. Robinson, H. U. Uçar, Burcu A. Urgen",
+      "venue": "11th International Symposium on Brain and Cognitive Science, 2025",
+      "link": ""
     },
     {
       "title": "A set of communicative and noncommunicative action video stimuli for human-robot interaction research",

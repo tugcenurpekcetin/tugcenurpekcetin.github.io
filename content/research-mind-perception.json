@@ -1,20 +1,21 @@
 {
-  "title": "Mind Perception",
+  "title": "Social Cognition & Mind Perception in HRI",
   "pageTitle": "Mind Perception — Research — Tuğçe Nur Pekçetin",
-  "image": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=1200&h=675&fit=crop",
-  "imageAlt": "Mind Perception Research",
+  "image": "/mindperception.png",
+  "imageAlt": "",
   "overviewParagraphs": [
-    "This line of research explores how people attribute mental states, intentions, and consciousness to robots and artificial agents. Understanding mind perception is crucial for designing robots that can effectively interact with humans in social contexts. Our work investigates the cognitive and perceptual factors that influence whether people see robots as thinking, feeling entities or merely mechanical tools.",
-    "We examine how various design features—such as appearance, movement patterns, and behavioral cues—affect users' perceptions of robot minds. This research has important implications for trust, acceptance, and the ethical considerations surrounding human-robot interaction in everyday settings."
+    "During my doctoral research, I explored the cognitive mechanisms of mind perception, specifically how humans attribute intentions, desires, and feelings to robots. To investigate the causes and consequences of this process, I employed a comprehensive mixed-methods approach combining real-time implicit metrics (e.g., reaction times, mouse trajectories) with explicit surveys and semi-structured interviews.", 
+    "A key contribution of this work was the development of the Real-World Implicit Association Task (RW-IAT), designed to capture the dynamic nature of mind perception in live interactions. Additionally, to ensure methodological rigor, we conducted normative studies to validate experimental stimuli, addressing critical gaps in the literature.",
+    "These investigations involved extensive laboratory experiments, including a large-scale cross-generational study with 160 participants. Our findings showed that while people consistently view humans as mentally superior to robots, this judgment changes significantly depending on the action performed and the observer's age. More importantly, implicit measures (like response times and mouse trajectories) revealed differences in mental capacity attributions that standard surveys missed. These results emphasize why we need multi-layered methods to truly capture the complexity of mind perception dynamics in HRI."
   ],
   "keyQuestions": [
-    "What factors influence people's attributions of mental states to robots?",
-    "How does mind perception affect trust and collaboration in HRI?",
-    "What role does anthropomorphism play in shaping human-robot relationships?",
-    "How can we design robots that elicit appropriate levels of mind perception?"
+    "What factors influence people's attributions of mental states and capacities to robots?",
+    "How do agent type (human vs. robot) and action type (communicative vs. noncommunicative) influence mind attribution in real-time interactions?",
+    "How do generational differences and individual traits shape the perception of robot agency and experience?",
+    "To what extent are implicit behavioral metrics (e.g., response times, mouse trajectories) consistent with explicit verbal judgments of mind perception?"
   ],
-  "videoUrl": "https://www.youtube.com/embed/dDsmbwOrHJs",
-  "videoTitle": "Mind Perception in Robots",
+  "videoUrl": "",
+  "videoTitle": "",
   "relatedPublications": [
     {
       "title": "Dynamics of Mind Perception in Human-Robot Interaction: Investigating Determinants Related to the Perceiver and the Perceived Using Real-Time Implicit and Explicit Measurements",

@@ -1,0 +1,20 @@
+{
+  "title": "Trust Dynamics in HRI",
+  "pageTitle": "Trust in HRI — Research — Tuğçe Nur Pekçetin",
+  "image": "",
+  "imageAlt": "Trust in HRI",
+  "overviewParagraphs": [
+    "Understanding how trust is formed, maintained, and calibrated in diverse collaborative contexts is crucial for building effective human-robot teams. In this emerging line of research, my focus is on developing novel methodologies to better align human mental models with actual robot capabilities. Specifically, I aim to uncover how trust evolves over time in complex teaming scenarios and identify interaction strategies that can help sustain this alignment."
+  ],
+  "keyQuestions": [""],
+  "videoUrl": "",
+  "videoTitle": "",
+  "relatedPublications": [
+    {
+      "title": "Show Your Work: Mechanistic Transparency in LLM-Powered Human-Robot Interaction",
+      "authors": "U. Yıldız, B. Yüce, A. Karadağ, T. N. Pekçetin, B. A. Urgen",
+      "venue": "To appear in the Companion of the 2026 ACM/IEEE International Conference on Human-Robot Interaction (HRI '26)",
+      "link": ""
+    }
+  ]
+}

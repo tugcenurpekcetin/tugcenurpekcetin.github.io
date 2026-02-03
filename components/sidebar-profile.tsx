@@ -5,7 +5,7 @@ import { Mail, MapPin, Github, GraduationCap, Globe, BadgeIcon as IdCard, Linked
 
 export default function SidebarProfile() {
   return (
-    <aside className="sticky top-16 hidden h-fit w-full md:block md:w-64">
+    <aside className="sticky top-16 hidden h-fit w-full md:block md:w-71">
       <div className="rounded-lg border bg-card text-card-foreground p-5">
         <div className="flex flex-col items-center text-center">
           <div className="relative h-[180px] w-[180px]">
@@ -18,6 +18,7 @@ export default function SidebarProfile() {
                 src={profilePic}
                 alt="Photo"
                 fill
+                unoptimized
                 sizes="180px"
                 className="object-cover object-bottom"
                 loading="eager"
@@ -29,16 +30,21 @@ export default function SidebarProfile() {
               />
             </div>
           </div>
-          <h2 className="mt-3 text-base font-semibold">Tuğçe Nur Pekçetin</h2>
-          <p className="text-sm text-muted-foreground">Cognitive Science Ph.D Postdoctoral Fulbright Scholar</p>
+          <h2 className="mt-3 text-xl font-bold">Tuğçe Nur Pekçetin</h2>
+          <p className="text-sm text-muted-foreground leading-relaxed">Cognitive Science Ph.D<br />Human-Robot Interaction Researcher<br />Fulbright Postdoctoral Scholar</p>
         </div>
-
         <ul className="mt-5 grid gap-2 text-sm">
           <li className="flex items-center gap-2">
             <MapPin className="h-4 w-4" />
-            Wisconsin, USA
+            Madison, WI, USA
           </li>
           
+          <li className="flex items-center gap-2">
+            <Mail className="h-4 w-4" />
+            <Link className="hover:underline" href="mailto:pekcetin@wisc.edu">
+              pekcetin@wisc.edu
+            </Link>
+          </li>
           <li className="flex items-center gap-2">
             <Mail className="h-4 w-4" />
             <Link className="hover:underline" href="mailto:tugce.nur.pekcetin@gmail.com">
@@ -56,20 +62,7 @@ export default function SidebarProfile() {
             <Link className="hover:underline" href="https://tr.linkedin.com/in/tugcenurpekcetin" target="_blank">
               tugcenurpekcetin
             </Link>
-          </li>
-          <li className="flex items-center gap-2">
-            <Github className="h-4 w-4" />
-            <Link className="hover:underline" href="https://github.com/TPekcetin" target="_blank">
-              github.com/TPekcetin
-            </Link>
-          </li>
-          <li className="flex items-center gap-2">
-            <Globe className="h-4 w-4" />
-            <Link className="hover:underline" href="https://x.com/tugcenpekcetin?lang=en" target="_blank">
-              X (Twitter)
-            </Link>
-          </li>
-          
+          </li>      
         </ul>
       </div>
     </aside>
